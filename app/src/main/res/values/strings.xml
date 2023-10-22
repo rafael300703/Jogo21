@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">21Jogo</string>
+    <string name="jogo21" />
+    <string name="tirar_cartas_jogador1">TIRAR CARTAS \n Jogador1</string>
+    <string name="people" />
+    <string name="jogador1" />
+    <string name="jogador11">jogador1</string>
+    <string name="jogo211">Jogo21</string>
+</resources>
